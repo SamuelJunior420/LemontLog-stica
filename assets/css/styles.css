@@ -1,0 +1,131 @@
+.nav-2 {
+  background: #ffffff;
+  color: rgb(33, 37, 41);
+  margin-top: 51px;
+}
+
+.home {
+  background: url("../../assets/img/asphalt-road-surrounded-by-trees-cloudy-sky.jpg") center / auto no-repeat;
+  height: 800px;
+}
+
+.container-div {
+  min-height: 580px;
+}
+
+.div-img-h {
+  margin-top: 50px;
+}
+
+btn {
+  background: rgb(206,62,63);
+}
+
+.distancia-sec {
+  margin-top: 50px;
+}
+
+.features-boxed {
+  color: #313437;
+  background-color: #ce3e3f;
+}
+
+.cont-e {
+  background: #ffffff;
+}
+
+.div-d {
+  margin: 50px;
+}
+
+.parc {
+  margin-top: 50px;
+  background: url("../../assets/img/blurred-traffic-light-trails-road.jpg") left;
+}
+
+h1 {
+  color: rgb(255,255,255);
+  text-align: center;
+}
+
+body {
+  background: rgb(206,62,63);
+}
+
+.nav-a {
+  color: rgba(255,255,255,0.9);
+}
+
+.features-boxed .item .description {
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.features-boxed .item .name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 8px;
+  margin-top: 0;
+  color: inherit;
+}
+
+.features-boxed .item .icon {
+  font-size: 60px;
+  color: #731414;
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+.features-boxed .item .box {
+  text-align: center;
+  padding: 30px;
+  background-color: #ffffff;
+  margin-bottom: 30px;
+}
+
+.features-boxed .item {
+  text-align: center;
+}
+
+.features-boxed .features {
+  padding: 50px 0;
+}
+
+.features-boxed .intro p {
+  margin-bottom: 0;
+}
+
+.features-boxed .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+@media (max-width:767px) {
+  .features-boxed h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.features-boxed h2 {
+  font-weight: bold;
+  padding-top: 40px;
+  color: inherit;
+}
+
+.features-boxed p {
+  color: #7d8285;
+}
+
+.servic {
+  margin: 40px;
+}
+
+.servico-e {
+  margin-top: 10px;
+  background: #ffffff;
+}
+
